@@ -1,0 +1,31 @@
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px; 
+}
+
+nav img {
+  margin-right: auto; 
+  width: 200px;
+}
+
+nav div {
+  display: flex;
+  gap: 20px; 
+}
+
+nav button {
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 10px 30px;
+  cursor: pointer;
+  border-radius: 15px;
+  font-size: 20px;
+}
+
+nav button:hover {
+  opacity: 0.8; 
+  color: aliceblue;
+}

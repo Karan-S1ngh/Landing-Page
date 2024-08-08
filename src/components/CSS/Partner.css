@@ -1,0 +1,52 @@
+.partner-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px;
+    background-color: #F5FBF6; 
+    padding: 150px 50px;
+}
+  
+.content-wrapper {
+    max-width: 800px;
+    text-align: center;
+    color: #333; 
+}
+  
+.subheading {
+    font-size: 18px;
+    font-weight: bold;
+    color: #3ED598; 
+    margin-bottom: 10px;
+}
+  
+.heading {
+    font-size: 48px;
+    font-weight: bold;
+    color: #1F1F1F; 
+    margin-bottom: 20px;
+}
+  
+.description {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #4A4A4A; 
+    margin-bottom: 40px;
+}
+  
+.register-button {
+    background-color: #000; 
+    color: #fff; 
+    padding: 15px 30px;
+    border: none;
+    border-radius: 25px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+  
+.register-button:hover {
+    background-color: #333; 
+}
+  
